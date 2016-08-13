@@ -1,1 +1,5 @@
-dds
+
+
+public class TestJavaRemote {
+
+}
